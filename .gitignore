@@ -1,0 +1,15 @@
+# Arquivo binário/executável compilado
+# (O nome pode variar dependendo do sistema operacional)
+encurtador-url-go
+encurtador-url-go.exe
+
+# Arquivos de ambiente
+.env
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração de editores
+.vscode/
+.idea/
